@@ -1,0 +1,49 @@
+.sampul {
+  width: 70px;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+th,
+tr {
+  text-align: center;
+}
+
+.back {
+  text-decoration: none;
+  color: white;
+  text-align: end;
+  margin-bottom: 0;
+  margin-top: 30px;
+}
+
+.btn {
+  color: white;
+  box-shadow: 0px 0px;
+}
+
+.btn:hover {
+  background-color: indigo;
+  box-shadow: rgb(168, 166, 166) 3px 3px;
+}
+
+.add {
+  margin-bottom: 16px;
+  text-align: end;
+}
+
+.logoNSI {
+  width: 50px;
+}
+
+.navbar {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.validation {
+  background-color: red;
+  padding: 5px;
+  color: white;
+}
